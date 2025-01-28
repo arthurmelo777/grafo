@@ -1,0 +1,15 @@
+C:\Users\20221014040003\Desktop\grafo\tad\bin\Debug\net8.0\TAD.exe
+C:\Users\20221014040003\Desktop\grafo\tad\bin\Debug\net8.0\TAD.deps.json
+C:\Users\20221014040003\Desktop\grafo\tad\bin\Debug\net8.0\TAD.runtimeconfig.json
+C:\Users\20221014040003\Desktop\grafo\tad\bin\Debug\net8.0\TAD.dll
+C:\Users\20221014040003\Desktop\grafo\tad\bin\Debug\net8.0\TAD.pdb
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.AssemblyInfoInputs.cache
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.AssemblyInfo.cs
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.csproj.CoreCompileInputs.cache
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.sourcelink.json
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.dll
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\refint\TAD.dll
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.pdb
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\TAD.genruntimeconfig.cache
+C:\Users\20221014040003\Desktop\grafo\tad\obj\Debug\net8.0\ref\TAD.dll
