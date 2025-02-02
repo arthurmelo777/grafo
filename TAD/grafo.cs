@@ -31,6 +31,7 @@ namespace Grafo {
     public class Aresta {
         private object? valor;
         private Vertice vEsq, vDir;
+        private int direcao; // -1 -> dir, 0 -> sem dir, 1 -> esq
 
         public object Valor {
             get { return valor; }
@@ -47,7 +48,12 @@ namespace Grafo {
             set { vDir = value; }
         }
 
-        public Aresta (object? v, Vertice ve, Vertice vd) {
+        public int Direcao {
+            get { return direcao; }
+            set { direcao = value; }
+        }
+
+        public Aresta (object? v, Vertice ve, Vertice vd, int d) {
             valor = v;
             vEsq = ve;
             vDir = vd;
@@ -151,6 +157,16 @@ namespace Grafo {
             }
 
             return graus.Min();
+        }
+
+        // Operações
+        public void AdicionarVertice (Vertice v) {
+            vertices.Append(v);
+        }
+
+        public void AdiconarAresta (object? v, Vertice ve, Vertice vd, int d) {
+            Aresta a = new Aresta (v, ve, vd, d);
+
         }
 
         public Grafo (Vertice v) {
